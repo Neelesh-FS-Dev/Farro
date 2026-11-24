@@ -193,13 +193,30 @@ export const story = {
   },
 };
 
+// Gallery items reference the media registry. `category` drives the filters.
 export const gallery = {
-  categories: ["All", "Food", "Cocktails", "People", "Spaces"] as const,
   items: [
-    { src: "/media/hero-poster.jpg", alt: "A hand serves a shared sweet from a brass bowl under warm light", category: "Food", caption: "Shared sweets" },
-    { src: "/media/still-guests.jpg", alt: "Guests laughing together over lunch at a table in Farro", category: "People", caption: "Guests at the table" },
-    { src: "/media/still-family.jpg", alt: "A father and young child at a festive celebration in Farro", category: "People", caption: "Celebrations" },
-    { src: "/media/still-staff.jpg", alt: "A member of the Farro team carries plates through the pass", category: "People", caption: "The team" },
+    { photo: "foodPourCream", category: "Food", caption: "Finishing a dessert" },
+    { photo: "chefBrushSauce", category: "Food", caption: "Brushing the sauce" },
+    { photo: "foodPlatedBread", category: "Food", caption: "Bread, plated" },
+    { photo: "foodSindhiDal", category: "Food", caption: "Sindhi specials, two nights only" },
+    { photo: "drinkPour", category: "Drinks", caption: "Poured into a measuring jug" },
+    { photo: "drinkGlass", category: "Drinks", caption: "Deep red serve" },
+    { photo: "drinkPink", category: "Drinks", caption: "Toasting at the table" },
+    { photo: "peopleBaking", category: "People", caption: "Two cooks at the counter" },
+    { photo: "peopleMixer", category: "People", caption: "At the mixer" },
+    { photo: "peopleBrewer", category: "People", caption: "At the brewing station" },
+    { photo: "chefsCooking", category: "People", caption: "Two chefs, one kitchen" },
+    { photo: "diningChef", category: "People", caption: "At the table" },
+    { photo: "marketGreens", category: "Spaces", caption: "From the market" },
+    { photo: "marketVendors", category: "Spaces", caption: "The market run" },
+    { photo: "guestsDining", category: "Spaces", caption: "Guests at the table" },
+    { photo: "spacesPlant", category: "Spaces", caption: "A quiet corner" },
+    { reel: "menu", category: "Food", caption: "Served at the table" },
+    { reel: "plating", category: "Food", caption: "Plated dishes" },
+    { reel: "interior", category: "Spaces", caption: "Staff and guests" },
+    { reel: "diners", category: "Spaces", caption: "Candlelit tables" },
+    { reel: "tables", category: "People", caption: "Speaking at a dinner" },
   ] as const,
 };
 

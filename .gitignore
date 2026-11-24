@@ -1,0 +1,8 @@
+# Original Instagram downloads (third-party content, ~200 MB). Kept local, not versioned.
+farro.pune_*.jpg
+farro.pune_*.mp4
+
+# Tooling artifacts
+node_modules/
+yarn.lock
+.playwright-mcp/

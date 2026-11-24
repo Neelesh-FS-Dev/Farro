@@ -27,12 +27,14 @@ export const scrollControl: {
 
 /** Starts Lenis and syncs it with GSAP's ticker. Returns a cleanup function. */
 export function startSmoothScroll(): () => void {
-  // Native scrolling is kept for reduced-motion users and touch devices, where it is already smooth.
-  if (prefersReducedMotion() || window.matchMedia("(pointer: coarse)").matches) {
+  // Reduced-motion users keep native scrolling. Everyone else gets Lenis. Touch
+  // devices keep their native momentum (syncTouch stays off) while Lenis keeps
+  // scroll-linked animations in step.
+  if (prefersReducedMotion()) {
     return () => {};
   }
 
-  const lenis = new Lenis({ duration: 1.1, smoothWheel: true });
+  const lenis = new Lenis({ duration: 1.1, smoothWheel: true, syncTouch: false });
   scrollControl.lenis = lenis;
 
   const onLenisScroll = () => ScrollTrigger.update();

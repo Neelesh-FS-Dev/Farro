@@ -98,7 +98,7 @@ export function ReservationForm() {
         <textarea id={`${id}-message`} rows={3} value={fields.message} onChange={set("message")} />
       </Field>
 
-      <p id={`${id}-note`} className="enquiry__note">
+      <p id={`${id}-note`} className="note">
         Reservations are subject to confirmation. Submitting copies your enquiry and opens WhatsApp.
         We cannot see live availability from this page.
       </p>

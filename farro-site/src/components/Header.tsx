@@ -22,8 +22,10 @@ export function Header() {
   const panelRef = useRef<HTMLDivElement>(null);
   const location = useLocation();
 
-  // Solid background after the hero. Re-renders only when the boolean flips.
-  const solid = useSyncExternalStore(subscribeToScroll, pastHero, () => false);
+  // Transparent over the home hero, solid everywhere else and once the hero has been scrolled past.
+  const scrolledPastHero = useSyncExternalStore(subscribeToScroll, pastHero, () => false);
+  const isHome = location.pathname === "/";
+  const solid = !isHome || scrolledPastHero;
 
   // Close the overlay on navigation. Adjusting state during render avoids an extra effect pass.
   const [lastPath, setLastPath] = useState(location.pathname);
@@ -32,7 +34,7 @@ export function Header() {
     setOpen(false);
   }
 
-  // Scroll lock, focus management and keyboard handling for the overlay.
+  // Scroll lock, focus management and keyboard handling for the mobile overlay.
   useEffect(() => {
     if (!open) return;
     scrollControl.stop();
@@ -70,38 +72,39 @@ export function Header() {
 
   return (
     <>
-      <header className={`site-header${solid ? " is-solid" : ""}${open ? " is-hidden" : ""}`}>
-        <Link to="/" className="wordmark" aria-label="Farro, home">
-          Farro
-        </Link>
-        <div className="site-header__actions">
-          <Link to="/contact" className="header-cta">
-            Reserve
+      <header className={`site-header${solid ? " is-solid" : ""}${open ? " is-open" : ""}`}>
+        <div className="wrap site-header__inner">
+          <Link to="/" className="wordmark" aria-label="Farro, home">
+            Farro
           </Link>
-          <button
-            ref={toggleRef}
-            type="button"
-            className="menu-toggle"
-            aria-expanded={open}
-            aria-controls="site-menu"
-            onClick={() => setOpen((v) => !v)}
-          >
-            <span>{open ? "Close" : "Menu"}</span>
-            <span className="menu-toggle__bars" aria-hidden="true" />
-          </button>
+          <nav className="site-nav" aria-label="Primary">
+            {nav.map((item) => (
+              <NavLink key={item.to} to={item.to}>
+                {item.label}
+              </NavLink>
+            ))}
+          </nav>
+          <div className="site-header__actions">
+            <Link to="/contact" className="header-cta">
+              Reserve
+            </Link>
+            <button
+              ref={toggleRef}
+              type="button"
+              className="menu-toggle"
+              aria-expanded={open}
+              aria-controls="site-menu"
+              onClick={() => setOpen((v) => !v)}
+            >
+              <span>{open ? "Close" : "Menu"}</span>
+              <span className="menu-toggle__bars" aria-hidden="true" />
+            </button>
+          </div>
         </div>
       </header>
 
-      <div
-        id="site-menu"
-        ref={panelRef}
-        role="dialog"
-        aria-modal="true"
-        aria-label="Site navigation"
-        className={`menu-overlay${open ? " is-open" : ""}`}
-        hidden={!open}
-      >
-        <nav className="menu-overlay__nav" aria-label="Primary">
+      <div id="site-menu" ref={panelRef} role="dialog" aria-modal="true" aria-label="Site navigation" className="menu-overlay" hidden={!open}>
+        <nav aria-label="Mobile">
           <ul>
             <li>
               <NavLink to="/" end>
