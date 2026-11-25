@@ -1,8 +1,28 @@
-# Original Instagram downloads (third-party content, ~200 MB). Kept local, not versioned.
-farro.pune_*.jpg
-farro.pune_*.mp4
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-# Tooling artifacts
-node_modules/
-yarn.lock
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Browser-test artefacts
 .playwright-mcp/
+qa-*.png
