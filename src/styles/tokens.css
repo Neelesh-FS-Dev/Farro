@@ -1,0 +1,49 @@
+/* Design tokens from the Farro brief, section 08 (colour), 09 (type), 10 (grid and spacing). */
+:root {
+  --warm-paper: #f6f2e9;
+  --lime-plaster: #eae5d9;
+  --roasted-grain: #30271f;
+  --terracotta: #a65a3a;
+  --olive-leaf: #68705a;
+  --wine-stain: #702f36;
+  --deep-evening: #211c18;
+  --soft-border: #d5cfc1;
+  --white: #ffffff;
+
+  /* Text colours checked for contrast on each surface (see DESIGN_RESEARCH.md). */
+  --ink: var(--roasted-grain);
+  --ink-muted: #5c5148;
+  --ink-on-dark: #f3ecdf;
+  --ink-on-dark-muted: #c9bfae;
+  --accent: var(--terracotta);
+  /* Olive Leaf is too light for small text on Lime Plaster (contrast < 4.5:1); this darker olive passes. */
+  --olive-ink: #4e5542;
+  --accent-text: #8a4628;
+
+  --font-display: "Cormorant Garamond Variable", "Cormorant Garamond", Georgia, serif;
+  --font-condensed: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --font-body: "Instrument Sans Variable", "Instrument Sans", system-ui, sans-serif;
+  --font-deva: "Noto Serif Devanagari", serif;
+
+  --step-hero: clamp(4.75rem, 2.4rem + 6vw, 8.25rem);
+  --step-h1: clamp(3.5rem, 2rem + 4.6vw, 5.9rem);
+  --step-h2: clamp(2.25rem, 1.5rem + 2.4vw, 3.5rem);
+  --step-body: clamp(1.0625rem, 1rem + 0.2vw, 1.1875rem);
+  --step-caption: 0.8125rem;
+  --step-nav: 0.8125rem;
+
+  --gutter: clamp(1.25rem, 0.5rem + 3.5vw, 5.5rem);
+  /* One masthead height everywhere, so sticky offsets and anchor scrolling never drift. */
+  --mast-h: 64px;
+  --max: 1520px;
+  --chapter-space: clamp(4rem, 2.5rem + 6vw, 11rem);
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur-micro: 180ms;
+  --dur-standard: 300ms;
+  --dur-image: 650ms;
+  --dur-reveal: 950ms;
+
+  --border: 1px solid var(--soft-border);
+  --radius: 2px;
+}
