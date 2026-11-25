@@ -1,0 +1,2285 @@
+# FARRO — A TABLE OF STORIES
+## Premium Culinary Website · Codevirel Studio
+
+## 01. PROJECT OBJECTIVE
+
+Design, develop, test, refine and deliver an exceptionally premium, original, media-rich, responsive and production-ready React website for FARRO, a contemporary restaurant and cocktail bar located in Koregaon Park, Pune, India.
+
+This is an independent creative website proposal by Codevirel Studio.
+
+The objective is to create a website that captures the emotional, cultural, culinary and sensory identity of Farro.
+
+Do not build a generic restaurant template.
+
+Do not make the website look like an AI-generated landing page.
+
+Do not create a conventional hospitality website consisting of a full-screen video, three feature cards, generic menu cards and a booking form.
+
+Create a website that feels like a beautifully designed independent culinary journal translated into an immersive digital dining experience.
+
+The website should combine:
+
+- Premium restaurant art direction.
+- Authentic culinary storytelling.
+- Contemporary Indian cultural references.
+- Editorial typography.
+- Tactile visual design.
+- Authentic photography.
+- Cinematic food and kitchen footage.
+- Meaningful motion design.
+- Chef-led storytelling.
+- Accessible restaurant information.
+- A convenient reservation journey.
+- Professional frontend engineering.
+
+The experience should feel warm, thoughtful, contemporary, expressive, intimate and memorable.
+
+It must be suitable for presenting to Farro's management as a high-quality private website concept.
+
+---
+
+## 02. BUSINESS CONTEXT
+
+Business name: Farro.
+
+Category: Restaurant and cocktail bar.
+
+Location: Koregaon Park, Pune, Maharashtra, India.
+
+Instagram: https://www.instagram.com/farro.pune/
+
+Instagram positioning:
+
+New Age cuisine inspired by culture, journeys & shared traditions.
+
+By Vardaan Marwah and team.
+
+Chef Instagram:
+
+https://www.instagram.com/vardaanmarwah/
+
+Business group website:
+
+https://www.sipandsavour.in/
+
+Restaurant listing:
+
+https://www.district.in/dining/pune/farro-koregaon-park
+
+Additional business research:
+
+https://dlcguide.dellaleaders.com/restaurants/farro/
+
+Restaurant WhatsApp link supplied in Instagram biography:
+
+https://wa.link/gxfxjz
+
+Published address:
+
+Shop 1/2, 357/1, Lane No. 6, Meera Nagar Garden Society, Koregaon Park, Pune.
+
+Publicly listed telephone:
+
++91 96993 63706
+
+Verify all contact details and reservation destinations before final implementation.
+
+Farro's cuisine combines contemporary Indian, Mediterranean and Middle Eastern influences.
+
+Its name references an ancient grain known as farro, emmer or Khapli.
+
+Public research identifies Chef Vardaan Marwah and Aman Talreja as co-founders.
+
+The restaurant's interior identity includes lime-plastered walls, curved architectural forms, terracotta, teak wood, plants and warm earthy materials.
+
+The supplied November 25, 2026 Instagram PDF contains:
+
+- Chef-focused content.
+- Pashtun kebab.
+- Chef's Kiss promotional content.
+- Brunch experiences.
+- Ghugni chura.
+- Chicken stew.
+- Cocktails.
+- Dessert photography.
+- Culinary collaborations.
+- Shared-leaf dining.
+- Regional culinary references.
+- Chef and kitchen footage.
+- Intimate gatherings.
+- Restaurant interiors.
+- Hospitality team content.
+- Festive dining experiences.
+- Food photography.
+- Beverage preparation.
+- Personal chef-led storytelling.
+
+Do not assume that every photographed dish remains on the current menu.
+
+Do not treat historical event announcements as upcoming events.
+
+Do not invent business facts, awards, menu prices, operating hours, testimonials, chef biographies, ingredient origins, dietary details or reservation policies.
+
+Verify information where possible and clearly document any remaining assumptions.
+
+---
+
+## 03. CREATIVE CONCEPT
+
+### A TABLE OF STORIES
+
+The central creative idea is that food carries memories, cultural influences, personal journeys and shared traditions.
+
+Farro should be presented as a place where those stories meet around the table.
+
+Potential creative headline:
+
+Every plate begins somewhere.
+
+Supporting positioning:
+
+Inspired by culture, shaped by journeys, and brought together around the table.
+
+These are proposed website copy concepts, not official quotations.
+
+The digital experience should unfold in culinary chapters:
+
+01. The invitation.
+
+02. The philosophy.
+
+03. The kitchen.
+
+04. The food.
+
+05. The bar.
+
+06. The people.
+
+07. The shared table.
+
+08. The return to Farro.
+
+The website should have the intimacy of a culinary journal and the usability of a professionally built modern hospitality website.
+
+Do not make the design look like a historical manuscript, vintage scrapbook or artificial old-world restaurant.
+
+Use contemporary editorial composition with restrained tactile details.
+
+---
+
+## 04. INITIAL REPOSITORY AND ENVIRONMENT INSPECTION
+
+Before implementation:
+
+1. Inspect the complete repository.
+2. Determine whether the project already exists or requires initialization.
+3. Inspect package.json and installed dependencies.
+4. Inspect all available images.
+5. Inspect all available videos and reels.
+6. Inspect available PDFs.
+7. Inspect brand logos and typography assets.
+8. Identify existing development conventions.
+9. Identify available Claude Code skills.
+10. Identify installed frontend-design skills.
+11. Identify installed taste or creative design skills.
+12. Identify browser automation tools.
+13. Identify Playwright availability.
+14. Identify MCP servers.
+15. Identify Context7 or equivalent documentation tools.
+16. Inspect FFmpeg availability.
+17. Inspect available image-processing tools.
+18. Identify performance and accessibility testing tools.
+
+Use relevant available design skills throughout the creative process.
+
+Do not assume a skill or plugin is installed.
+
+Do not fabricate tool capabilities.
+
+Do not install global tools or modify global system configuration without authorization.
+
+If the repository contains existing functionality, preserve it unless changes are explicitly required.
+
+Continue into complete implementation after research and planning.
+
+---
+
+## 05. MANDATORY CREATIVE REFERENCE RESEARCH
+
+Directly investigate the following restaurant websites and relevant design case studies.
+
+### Noma
+
+https://noma.dk/
+
+https://noma.dk/about-our-new-website/
+
+Study:
+
+- Culinary philosophy.
+- Ingredient-led storytelling.
+- Seasonal content.
+- Authentic photography.
+- Uncomplicated navigation.
+- Reservations visibility.
+- Confidence through restraint.
+
+Extract useful principles rather than copying Noma's aesthetic.
+
+### Dishoom
+
+https://www.dishoom.com/
+
+https://www.fortyeight.one/projects/dishoom
+
+Study:
+
+- Cultural storytelling.
+- Rich editorial identity.
+- Restaurant narrative.
+- Menu organization.
+- Practical reservation journeys.
+- The integration of storytelling and functionality.
+
+Do not copy Dishoom's Bombay-specific identity or historical graphic language.
+
+### Eleven Madison Park
+
+https://www.elevenmadisonpark.com/
+
+Study:
+
+- Minimalism.
+- Media presentation.
+- Typography restraint.
+- Fine-dining content hierarchy.
+- Clear information architecture.
+
+Adapt the level of refinement without making Farro feel overly formal.
+
+### The Bombay Canteen
+
+https://thebombaycanteen.com/
+
+Investigate:
+
+- Contemporary Indian culinary positioning.
+- Regional storytelling.
+- Cultural interpretation.
+- Approachable hospitality.
+- Menu presentation.
+
+### Ikoyi
+
+https://ikoyilondon.com/
+
+Investigate:
+
+- Ingredient-led identity.
+- Food presentation.
+- Contemporary culinary art direction.
+- Restaurant information hierarchy.
+
+### Additional mandatory reference platforms
+
+- https://motionsites.ai/
+- https://www.awwwards.com/
+- https://webflow.com/
+- https://www.siteinspire.com/
+- https://www.curated.design/
+- https://www.godly.website/
+- https://land-book.com/
+- https://www.lapa.ninja/
+- https://www.behance.net/
+
+Explore Farro-specific compositions.
+
+On MotionSites.ai, investigate restaurant-oriented creative prompts, image-led transitions, cinematic media presentation, typography compositions and motion-driven editorial layouts.
+
+Do not merely paste these homepage URLs into documentation.
+
+Identify specific relevant websites, design concepts, components or interactions.
+
+For each inspected reference, record:
+
+- Exact URL.
+- Observed design principle.
+- Relevant section.
+- Why it suits Farro.
+- Required visual adaptation.
+- Technical implementation approach.
+- Desktop behaviour.
+- Tablet behaviour.
+- Mobile behaviour.
+- Reduced-motion alternative.
+- Performance considerations.
+- License requirements.
+- Verification status.
+
+Create a concise DESIGN_RESEARCH.md documenting actual findings.
+
+Do not pretend to have inspected inaccessible references.
+
+Do not clone any entire website, protected creative composition or proprietary template.
+
+---
+
+## 06. COMPONENT RESEARCH
+
+Investigate:
+
+- https://reactbits.dev/
+- https://21st.dev/
+- https://ui.shadcn.com/
+- https://ui.aceternity.com/
+- https://magicui.design/
+- https://tympanus.net/codrops/
+
+Search specifically for:
+
+- Controlled typography reveals.
+- Editorial image galleries.
+- Image masking.
+- Accessible lightboxes.
+- Image transitions.
+- Accessible tabs.
+- Contextual image previews.
+- Custom navigation interactions.
+- Scroll-driven editorial layouts.
+
+Do not use components simply because they look impressive in isolation.
+
+Evaluate:
+
+- Creative suitability.
+- Accessibility.
+- Mobile behaviour.
+- Rendering cost.
+- Dependency requirements.
+- Licensing.
+- Customization requirements.
+
+Reject effects that make the restaurant feel like a technology startup.
+
+Avoid excessive animated gradients, glowing borders, interactive particle backgrounds, unnecessary 3D models, decorative glass panels and generic bento grids.
+
+Use shadcn/ui only as a foundation for functional accessible primitives.
+
+Customize all styling.
+
+---
+
+## 07. TECHNICAL STACK
+
+Use:
+
+- React.
+- Vite.
+- TypeScript with strict mode.
+- React Router.
+- GSAP.
+- GSAP ScrollTrigger.
+- Lenis.
+- CSS custom properties.
+- Centralized design tokens.
+- Lucide icons or custom SVG iconography.
+- shadcn/ui where appropriate.
+- React Bits where justified.
+
+Use Tailwind CSS only if appropriate to the repository.
+
+Avoid unnecessary animation libraries.
+
+Prefer CSS and GSAP for the primary artistic effects.
+
+Do not introduce Three.js or WebGL unless a specific verified design requirement justifies the additional complexity.
+
+The restaurant experience should be excellent without expensive 3D rendering.
+
+Verify current compatible package versions and official documentation before implementation.
+
+---
+
+## 08. VISUAL DESIGN SYSTEM
+
+Use Farro's actual visual identity and original wordmark as the foundation.
+
+Introduce a material-inspired colour system.
+
+Primary design tokens:
+
+- Warm Paper: #F6F2E9.
+- Lime Plaster: #EAE5D9.
+- Roasted Grain: #30271F.
+- Terracotta: #A65A3A.
+- Olive Leaf: #68705A.
+- Wine Stain: #702F36.
+- Deep Evening: #211C18.
+- Soft Border: #D5CFC1.
+- White: #FFFFFF.
+
+Colour usage:
+
+- Warm Paper should provide the predominant editorial background.
+- Lime Plaster should distinguish secondary sections.
+- Roasted Grain should provide most primary typography.
+- Terracotta should be used selectively for interactive emphasis.
+- Olive Leaf should appear as a supporting natural accent.
+- Wine Stain may support the cocktail or evening experience.
+- Deep Evening should provide contrast for selected cinematic sections.
+
+Do not make every section dark.
+
+Do not add unnecessary gold gradients.
+
+Do not confuse luxury with black-and-gold styling.
+
+Allow the restaurant's actual photography to establish much of the emotional colour palette.
+
+Verify text and interactive contrast.
+
+Refine proposed colours after inspecting the supplied original brand assets.
+
+---
+
+## 09. TYPOGRAPHY SYSTEM
+
+Investigate the following proposed typography direction:
+
+- Cormorant Garamond for expressive editorial display.
+- Barlow Condensed for occasional condensed headings and chapter labels.
+- Instrument Sans for body content, navigation and functional typography.
+- Noto Serif Devanagari for meaningful Devanagari content.
+
+Preserve the original Farro logo.
+
+Do not replace the existing wordmark with an approximate generic font.
+
+Verify licensing and actual visual suitability.
+
+Avoid loading four complete font families unnecessarily.
+
+Select a reduced set of necessary weights and subsets.
+
+Use WOFF2 assets where available.
+
+Proposed display typography:
+
+Desktop hero: fluid 76–132px.
+
+Major editorial headings: fluid 56–94px.
+
+Secondary section headings: 36–56px.
+
+Body: 17–19px.
+
+Captions: 12–14px.
+
+Navigation: 13–15px.
+
+Mobile hero: fluid 44–68px.
+
+Mobile section headings: 34–50px.
+
+Mobile body: 16–17px.
+
+Use comfortable reading widths of approximately 48–68 characters for long-form content.
+
+Use editorial typography with controlled line breaks.
+
+Do not introduce arbitrary oversized text that clips at smaller widths.
+
+Use Devanagari content only where culturally and linguistically appropriate.
+
+Do not use incorrect Hindi words as visual decoration.
+
+---
+
+## 10. GRID, SPACING AND SURFACE SYSTEM
+
+Create a flexible editorial grid.
+
+Desktop:
+
+- Twelve-column grid.
+- Maximum content width approximately 1500–1600px.
+- Outer gutters approximately 56–88px.
+- Deliberate asymmetric composition.
+- Generous chapter spacing.
+
+Tablet:
+
+- Eight-column foundation.
+- Approximately 32–48px outer gutters.
+- Adapt editorial layouts intentionally.
+
+Mobile:
+
+- Four-column foundation.
+- Approximately 20–24px outer gutters.
+- Comfortable vertical spacing.
+- Clear media hierarchy.
+
+Use an underlying 4px or 8px spacing system.
+
+Allow editorial exceptions where intentional.
+
+Suggested desktop section padding:
+
+112–180px for major chapters.
+
+Suggested mobile section padding:
+
+64–96px.
+
+Avoid unnecessarily large empty spaces.
+
+Use restrained corner radii.
+
+Do not round every image and card.
+
+Prefer:
+
+- Straight editorial image edges.
+- Occasional organic arch-inspired compositions.
+- Fine borders.
+- Natural paper-like surfaces.
+- Intentional whitespace.
+- Subtle texture.
+
+If using texture, create a lightweight CSS or optimized image solution.
+
+Do not render expensive full-screen animated noise.
+
+---
+
+## 11. WEBSITE ARCHITECTURE
+
+Implement an appropriate sitemap.
+
+Proposed routes:
+
+- /
+- /menu
+- /our-story
+- /experiences
+- /journal
+- /journal/:slug
+- /visit
+
+Adjust the routes according to actual available content.
+
+Do not create unnecessary empty pages.
+
+The bar may exist as a dedicated route or as a substantial section inside the menu and homepage.
+
+Do not create an entire online ordering system without verified business requirements.
+
+The primary conversion objective is restaurant reservations or legitimate reservation enquiries.
+
+Secondary objectives:
+
+- Explore the food.
+- View the drinks menu.
+- Discover the restaurant's philosophy.
+- Learn about culinary experiences.
+- Explore chef-led stories.
+- Find the restaurant.
+- Contact the restaurant.
+
+Create centralized typed content configuration.
+
+Keep restaurant hours, menus, contact details, social links and external reservation links easily editable.
+
+---
+
+## 12. HEADER AND NAVIGATION
+
+Create a refined, heritage-inspired editorial masthead.
+
+Do not use a standard SaaS navigation bar.
+
+Desktop composition:
+
+Left:
+
+Menu and Our Story.
+
+Center:
+
+Original FARRO wordmark.
+
+Right:
+
+Experiences, Visit and Reserve a Table.
+
+The exact distribution may be adjusted to maintain perfect optical balance.
+
+Use visible navigation links.
+
+The wordmark must remain visually centered even when navigation groups have different widths.
+
+Use a solid warm-paper background or carefully designed transparent header depending on the hero composition.
+
+Add a restrained bottom rule where appropriate.
+
+Desktop navigation should have a compact sticky state after scrolling.
+
+Avoid layout shifts when transitioning between header states.
+
+Tablet:
+
+Retain visible navigation links.
+
+Reduce spacing and typography while preserving readability.
+
+Do not automatically switch tablets to hamburger-only navigation.
+
+Mobile:
+
+- Original Farro wordmark.
+- Accessible hamburger menu.
+- Visible reservation access.
+- Full-screen or near-full-screen editorial menu.
+- Carefully spaced navigation links.
+- Optional authentic restaurant image.
+
+The mobile menu should feel like opening the contents page of a culinary journal.
+
+Implement:
+
+- Accessible controls.
+- aria-expanded.
+- aria-controls where appropriate.
+- Keyboard navigation.
+- Escape-to-close.
+- Focus trapping for modal navigation.
+- Focus restoration.
+- Scroll locking.
+- Safe-area support.
+- Active route states.
+- Menu close after navigation.
+
+Do not use decorative navigation animation that delays accessing links.
+
+---
+
+## 13. HOMEPAGE HERO — THE INVITATION
+
+Create a distinctive magazine-cover-inspired hero.
+
+Do not automatically use a full-screen background video.
+
+The recommended opening composition consists of:
+
+- A generous warm-paper background.
+- A large authentic culinary photograph.
+- Editorial display typography.
+- A secondary smaller image or kitchen-film window.
+- Restrained chapter metadata.
+- Clear reservation and menu actions.
+
+Proposed headline:
+
+Every plate
+begins somewhere.
+
+Supporting copy:
+
+New Age cuisine inspired by culture, journeys and shared traditions.
+
+Use the documented positioning accurately.
+
+Potential small location text:
+
+Koregaon Park · Pune.
+
+Desktop composition:
+
+Create a balanced asymmetric editorial opening.
+
+Position the typography within an approximately four-to-five-column region.
+
+Allow a strong culinary photograph to occupy approximately six-to-seven columns.
+
+Use one secondary portrait-oriented image only if it improves the composition.
+
+Let the media overlap the editorial layout slightly without obstructing text.
+
+Incorporate a restrained arch-shaped mask only if inspired by Farro's actual interiors.
+
+Do not use arbitrary decorative arches throughout the entire site.
+
+Select hero photography after reviewing every original asset.
+
+Potential hero subjects:
+
+- A beautifully plated dish.
+- A chef finishing a plate.
+- A close-up food preparation moment.
+- A carefully framed shared meal.
+- A warm restaurant interior.
+
+Do not use low-resolution Instagram thumbnails if better originals are provided.
+
+Primary CTA:
+
+Reserve a Table.
+
+Secondary CTA:
+
+Explore the Menu.
+
+Motion sequence:
+
+- Small location text fades in over approximately 300ms.
+- Main headline reveals in two controlled lines over approximately 800–1000ms.
+- Main photograph reveals through a vertical or organic crop over approximately 900ms.
+- Secondary media enters approximately 150ms later.
+- CTA group appears with restrained movement.
+
+Ensure meaningful content is visible without animation.
+
+Do not introduce a blocking loader.
+
+Do not require the visitor to watch a long introduction.
+
+Mobile composition:
+
+- Clear Farro identity.
+- Large editorial headline.
+- Authentic hero photograph.
+- Immediately accessible reservation and menu actions.
+- Supporting copy with readable line lengths.
+
+Avoid a viewport filled entirely by video before essential information appears.
+
+---
+
+## 14. THE PHILOSOPHY — ROOTED IN MANY PLACES
+
+Create a quiet editorial introduction.
+
+Proposed heading:
+
+Rooted in many places.
+
+Or:
+
+A little of everywhere.
+A table of our own.
+
+Explain Farro's documented culinary influences.
+
+Use thoughtful copy focused on culture, journeys and shared traditions.
+
+Do not invent specific travel experiences or personal memories attributed to Chef Vardaan.
+
+Desktop composition:
+
+- Narrow chapter label on the left.
+- Large editorial heading across the central area.
+- Supporting narrative in a comfortable reading column.
+- Small ingredient, grain or preparation photograph.
+
+Use an understated horizontal divider or subtle chapter-number treatment.
+
+Consider a small Devanagari wordmark accent if authentic to the supplied branding.
+
+Treat the section as an opening editorial essay.
+
+Do not create three mission-and-vision cards.
+
+Motion:
+
+Use a restrained line or paragraph reveal and gentle image movement.
+
+Avoid text-splitting every word.
+
+Mobile:
+
+Stack the editorial text and small image naturally.
+
+Prioritize readability.
+
+---
+
+## 15. SIGNATURE CULINARY EXPERIENCE — STORIES ON A PLATE
+
+Create the primary signature interactive experience.
+
+The concept is an interactive culinary journal exploring selected Farro dishes.
+
+Use actual photographs and videos from the supplied media.
+
+Potential dishes visible in supplied or public material include:
+
+- Pashtun Kebab.
+- Ghugni Chura.
+- Chicken Stew.
+- Parmesan Jalebi.
+- Thirty Layer Truffle Latke.
+
+Confirm current availability before presenting any item as part of the active menu.
+
+This section should not simply be a food card carousel.
+
+Desktop composition:
+
+- A featured plate photographed at large scale.
+- A narrow editorial text column containing the dish name.
+- Optional verified culinary inspiration.
+- A small image index.
+- Previous and next controls.
+- A clear Explore the Menu action.
+
+Create a deliberately framed editorial image composition.
+
+An active dish transition may include:
+
+1. Existing image subtly fades.
+2. Incoming image reveals through a controlled mask.
+3. Dish heading transitions with a short vertical movement.
+4. Supporting copy updates.
+5. Index indicator updates.
+
+The transition should feel like moving between chapters of a culinary publication.
+
+Use approximate durations of 500–750ms.
+
+Do not create fake ingredient annotations.
+
+Only include origin stories, ingredients or preparation techniques when supported.
+
+Provide a static fallback.
+
+Do not hide multiple dishes behind a complex inaccessible interaction.
+
+Mobile:
+
+Use swipeable or vertically stacked editorial entries.
+
+Include visible previous and next controls if implemented as a carousel.
+
+Maintain accessible labels.
+
+Avoid scroll hijacking.
+
+Do not autoplay the carousel.
+
+---
+
+## 16. THE KITCHEN — HANDS BEHIND THE FOOD
+
+Build a dedicated human storytelling section.
+
+Proposed heading:
+
+Good food begins
+with good questions.
+
+Alternative:
+
+Behind every plate,
+a pair of hands.
+
+Use authentic chef and kitchen photographs.
+
+Feature Vardaan Marwah and the Farro team based on available documented information.
+
+Do not invent the chef's career history, awards or personal quotations.
+
+Desktop composition:
+
+- Large portrait-oriented chef photograph.
+- A documentary-style kitchen film.
+- Editorial text in a narrower column.
+- Subtle image captions.
+- Link to the Our Story page.
+
+Use monochrome photography selectively if original supplied media supports it.
+
+Do not artificially convert every food photograph to monochrome.
+
+Create a visual contrast between warm food imagery and documentary human content.
+
+If suitable footage exists, include:
+
+- Chef plating a dish.
+- Food preparation.
+- Ingredient handling.
+- Kitchen movement.
+- Team collaboration.
+
+Use muted video with a poster.
+
+Play only when appropriate and pause outside the viewport.
+
+Include accessible playback controls.
+
+Motion:
+
+Gentle image reveals and a subtle chapter progression.
+
+Do not use energetic campaign-style transitions.
+
+---
+
+## 17. FOOD MENU PREVIEW
+
+Create a homepage menu preview that communicates culinary variety without reproducing the entire menu.
+
+Proposed heading:
+
+Find something
+to remember.
+
+Organize content according to verified menu categories.
+
+Potential categories:
+
+- Small plates.
+- Mains.
+- Desserts.
+- Brunch.
+- Cocktails.
+- Non-alcoholic beverages.
+
+Do not assume these are Farro's official current categories.
+
+Use title-led editorial entries combined with selected imagery.
+
+Avoid identical rounded food cards.
+
+Suggested layout:
+
+- A primary featured dish photograph.
+- An editorial menu-category index.
+- Small supporting food images.
+- Clear View Full Menu action.
+
+Allow desktop users to select categories and preview corresponding media.
+
+On mobile, provide a clean and concise menu route link.
+
+Do not hide practical menu information behind animation.
+
+---
+
+## 18. THE BAR — SIP THROUGH ORIGINS
+
+Create a visually distinct evening chapter.
+
+Use Farro's actual beverage photographs and cocktail preparation footage.
+
+The supplied Instagram material contains a series labelled Sip Through Origins, which may inspire the section subject to verification.
+
+Use a darker visual environment:
+
+- Deep Evening background.
+- Wine Stain or muted amber accents.
+- Warm cream typography.
+- Authentic glassware photography.
+- Close-up ingredient and preparation images.
+
+Proposed heading:
+
+Stories, poured.
+
+Supporting copy should remain original and avoid unverified claims.
+
+Desktop composition:
+
+- Tall cocktail photograph.
+- Wide contextual bar image.
+- Optional short muted preparation clip.
+- Editorial heading and concise supporting copy.
+
+Use controlled atmospheric transitions.
+
+Do not make the section resemble a nightclub website.
+
+Do not add artificial neon lighting or excessive glowing effects.
+
+Use colour contrast carefully.
+
+Provide a clear Explore Drinks Menu action.
+
+Do not implement online alcohol ordering or payment functionality unless explicitly authorized and legally appropriate.
+
+---
+
+## 19. THE SHARED TABLE — DINING EXPERIENCES
+
+Build an experience-driven section based on Farro's documented culinary events and gatherings.
+
+Potential historical subjects:
+
+- Shared Leaf.
+- Chef collaborations.
+- Brunch.
+- Festive dining.
+- Guest chef experiences.
+- Special culinary evenings.
+
+Verify exact event names and dates.
+
+Do not present past events as current.
+
+Proposed heading:
+
+Food is better
+when shared.
+
+Create an editorial spread inspired by the feeling of people coming together around a table.
+
+Use:
+
+- Group dining photography.
+- Photographs of hands serving food.
+- Shared plates.
+- Chef collaboration media.
+- Intimate restaurant gatherings.
+
+Desktop composition:
+
+Arrange authentic images in a horizontal editorial sequence or a balanced multi-image spread.
+
+Avoid a generic horizontal carousel spanning many screens.
+
+Include meaningful captions only when verified.
+
+Motion:
+
+Use natural image movement and subtle clip reveals.
+
+Do not use long pinned scrolling sections.
+
+Mobile:
+
+Use native vertical scrolling.
+
+Ensure all images remain visible and accessible.
+
+Provide a Discover Experiences action.
+
+---
+
+## 20. THE SPACE — INSIDE FARRO
+
+Create a section translating the restaurant's physical atmosphere into the website.
+
+Use original interior photography.
+
+Emphasize:
+
+- Curved architecture.
+- Warm lighting.
+- Terracotta.
+- Lime-plastered textures.
+- Natural wood.
+- Plants.
+- Intimate dining arrangements.
+
+Do not fabricate architectural features or use unrelated stock restaurant photographs.
+
+Proposed heading:
+
+A place to stay
+a little longer.
+
+Design the section as an architectural editorial composition.
+
+Possible arrangement:
+
+- Large landscape photograph.
+- Narrow overlapping detail photograph.
+- Small descriptive text column.
+- Subtle arch-inspired image treatment.
+
+Use authentic architectural proportions.
+
+Do not add artificial 3D room tours.
+
+If multiple high-quality images exist, create an accessible photo gallery.
+
+Provide keyboard and touch navigation.
+
+Include clear image descriptions.
+
+---
+
+## 21. THE JOURNAL
+
+Create an editorial journal for Farro's culinary stories.
+
+Potential content:
+
+- Ingredient inspirations.
+- Chef conversations.
+- Culinary collaborations.
+- Past dining experiences.
+- Cocktail stories.
+- Behind-the-scenes kitchen content.
+- Seasonal menu announcements.
+
+Use supplied Instagram captions and documented facts where available.
+
+Do not fabricate full articles from photograph thumbnails.
+
+Create draft editorial entries requiring confirmation if source material is insufficient.
+
+Featured homepage journal composition:
+
+One large feature article.
+
+Two supporting editorial entries.
+
+Different image proportions and typography hierarchy.
+
+Do not create three identical blog cards.
+
+Create a View the Journal action.
+
+Historical event content must include verified dates when presented as a record of past events.
+
+---
+
+## 22. RESERVATION AND VISIT SECTION
+
+The website's primary conversion journey must be practical.
+
+Proposed heading:
+
+There is always
+a story at the table.
+
+Include:
+
+- Reserve a Table.
+- Restaurant location.
+- Verified operating hours.
+- Contact information.
+- Directions.
+- Instagram.
+- WhatsApp where verified.
+
+Published restaurant address:
+
+Shop 1/2, 357/1, Lane No. 6, Meera Nagar Garden Society, Koregaon Park, Pune.
+
+Potential reservation destinations:
+
+https://www.district.in/dining/pune/farro-koregaon-park
+
+https://wa.link/gxfxjz
+
+Verify each destination before implementation.
+
+Do not create fake availability.
+
+Do not simulate confirmed restaurant reservations.
+
+Do not create a reservation date picker that claims a table is available without a legitimate booking integration.
+
+If legitimate external booking is available, make the reservation CTA open that service.
+
+Provide WhatsApp or telephone alternatives where verified.
+
+If a map is incorporated, use a lightweight privacy-conscious implementation.
+
+Avoid loading a heavy third-party map immediately.
+
+Provide a functional external directions link.
+
+Do not assume parking availability, dress codes, accessibility facilities or reservation policies.
+
+---
+
+## 23. FOOTER — THE LAST PAGE
+
+Design a distinctive editorial closing composition.
+
+The footer should feel like the final page of a culinary book.
+
+Avoid a conventional generic four-column footer.
+
+Potential composition:
+
+- Large original Farro wordmark.
+- Short culinary positioning statement.
+- Practical visit information.
+- Menu and experience navigation.
+- Reservation action.
+- Instagram link.
+- Contact details.
+- Appropriate copyright.
+- Concept disclosure where required.
+
+Use a warm-paper or deep-evening background depending on the final page rhythm.
+
+Consider a subtle line illustration inspired by grain or ingredients only if original and visually appropriate.
+
+Do not invent an official Farro emblem.
+
+Respect the existing logo.
+
+Ensure every interactive link is functional.
+
+Maintain beautiful spacing at mobile widths.
+
+---
+
+## 24. MENU PAGE — DIGITAL CULINARY MENU
+
+Build a sophisticated, highly usable menu experience.
+
+The menu must not simply be a large image or embedded PDF viewer.
+
+Where verified menu data is available, create accessible HTML menu content.
+
+Organize categories according to actual restaurant menu structure.
+
+Include:
+
+- Category navigation.
+- Dish names.
+- Verified descriptions.
+- Verified prices.
+- Verified dietary information.
+- Appropriate ingredient or allergen information only when confirmed.
+
+Use Indian Rupees.
+
+Do not invent prices or dish descriptions.
+
+Do not assume dietary suitability based solely on food names.
+
+When verified menu content is unavailable:
+
+- Link to the current official menu or restaurant listing.
+- Present a clearly labelled selection of previously documented culinary imagery.
+- Identify current menu information as requiring confirmation.
+
+Design the page like a premium contemporary printed menu translated into a digital interface.
+
+Desktop:
+
+- Two-column editorial layout.
+- Accessible category navigation.
+- Restrained dotted or solid separators.
+- Clear pricing alignment.
+- Selected supporting photography.
+
+Tablet:
+
+- Adapt category navigation and menu columns.
+- Maintain readable spacing.
+
+Mobile:
+
+- Single-column or appropriate narrow layout.
+- Easy category switching.
+- Readable dish descriptions.
+- Sticky category navigation where useful.
+- No horizontal overflow.
+
+Provide print-friendly styling if menu data is available.
+
+Do not animate every individual dish as the visitor scrolls.
+
+---
+
+## 25. OUR STORY PAGE
+
+Develop a thoughtful narrative explaining Farro's identity.
+
+The page may cover:
+
+- The restaurant's culinary philosophy.
+- The significance of its name.
+- The influence of culture and journeys.
+- Chef Vardaan Marwah.
+- The documented founding team.
+- The physical restaurant space.
+- The people behind the experience.
+
+Use verified public information.
+
+Do not fabricate personal stories or quotations.
+
+Design the page with a contemporary editorial narrative.
+
+Alternate:
+
+- Large photographic spreads.
+- Readable text columns.
+- Small ingredient details.
+- Portrait photography.
+- Documentary-style media.
+
+Avoid generic mission, vision and values cards.
+
+Do not create a fabricated timeline.
+
+---
+
+## 26. EXPERIENCES PAGE
+
+Create a dedicated page for restaurant experiences where supported by available content.
+
+Potential categories:
+
+- Dining.
+- Brunch.
+- Special menus.
+- Chef collaborations.
+- Culinary events.
+- Festive experiences.
+
+Distinguish past and upcoming experiences.
+
+Do not show invented upcoming dates.
+
+If current experiences cannot be verified, present a clearly labelled archive and provide a legitimate discovery or enquiry route.
+
+Use varied editorial compositions.
+
+Each experience may include:
+
+- Verified title.
+- Verified date where applicable.
+- Authentic imagery.
+- Concise contextual description.
+- Appropriate booking or enquiry action.
+
+Do not create fake event registrations.
+
+---
+
+## 27. JOURNAL DETAIL PAGES
+
+Implement article detail routes only where sufficient content exists.
+
+Article layout:
+
+- Editorial title.
+- Date when verified.
+- Opening image.
+- Readable text column.
+- Authentic supporting imagery.
+- Optional video.
+- Related content.
+- Return to Journal link.
+
+Maintain comfortable line lengths.
+
+Use a coherent hierarchy.
+
+Do not fill articles with generic AI-generated culinary prose.
+
+Use clearly identified draft text only where approval is needed.
+
+---
+
+## 28. VISIT PAGE
+
+Create a practical restaurant information page.
+
+Include verified:
+
+- Address.
+- Telephone.
+- WhatsApp.
+- Reservation link.
+- Opening hours.
+- Social profiles.
+- Directions.
+- Additional restaurant policies if confirmed.
+
+Use an authentic interior or exterior photograph.
+
+Make contact actions immediately accessible.
+
+On mobile, prioritize:
+
+- Reserve.
+- Directions.
+- Call.
+- Menu.
+
+Do not add a fake contact form.
+
+Do not display a generic embedded map with the wrong location.
+
+---
+
+## 29. COMPLETE MEDIA INVENTORY
+
+Inspect the entire local asset directory.
+
+The supplied PDF is a visual reference, not a complete asset manifest.
+
+Do not assume a particular number of downloaded files.
+
+Create an inventory of all original images and videos.
+
+For every asset, record:
+
+- Filename.
+- Relative path.
+- Original source.
+- Dimensions.
+- Aspect ratio.
+- Orientation.
+- Format.
+- File size.
+- Duration when applicable.
+- Subject.
+- Visual quality.
+- Available caption.
+- Potential website section.
+- Suggested crop.
+- Optimization requirements.
+- Usage status.
+- Publication permission status.
+
+Organize assets by category:
+
+- Hero-worthy food photography.
+- Food close-ups.
+- Chef portraits.
+- Kitchen footage.
+- Cocktail preparation.
+- Cocktail photography.
+- Restaurant interiors.
+- Restaurant details.
+- Shared dining.
+- Brunch.
+- Guest chef collaborations.
+- Festive events.
+- Dessert.
+- Ingredients.
+- Team.
+- Historical editorial content.
+
+Identify duplicate assets.
+
+Identify low-resolution or unsuitable assets.
+
+Use as many valuable authentic assets as possible throughout the website.
+
+Do not force every asset onto the homepage.
+
+Do not ignore suitable original footage.
+
+Do not replace actual Farro imagery with AI-generated substitutes.
+
+Do not use Instagram UI screenshots as primary website photographs.
+
+Document suitable unused assets and reasons for exclusion.
+
+---
+
+## 30. PROFESSIONAL IMAGE OPTIMIZATION
+
+Use appropriate image-processing utilities.
+
+Preserve all original source media.
+
+Generate optimized website variants.
+
+Require:
+
+- AVIF or WebP when appropriate.
+- Responsive image widths.
+- srcset.
+- sizes.
+- Explicit width and height.
+- Aspect-ratio preservation.
+- Appropriate compression.
+- Lazy loading for below-fold images.
+- Priority loading for the actual LCP image.
+- Meaningful alternative text.
+- Correct focal-point preservation.
+- Appropriate object-position settings.
+
+Do not crop out important ingredients, people or architectural features.
+
+Do not overcompress food photographs.
+
+Avoid aggressive sharpening and unnatural colour modification.
+
+Preserve food colour accuracy and the restaurant's actual warm atmosphere.
+
+---
+
+## 31. PROFESSIONAL VIDEO OPTIMIZATION
+
+Use FFmpeg where available.
+
+Inspect every original video.
+
+Remove unnecessary audio tracks from muted background clips where appropriate.
+
+Preserve original files.
+
+Produce optimized web variants.
+
+Consider:
+
+- Efficient codecs.
+- Correct dimensions.
+- Appropriate bitrate.
+- Mobile-specific variants.
+- Poster images.
+- Fast-start playback.
+- Controlled preload.
+- Lazy initialization.
+- Off-screen pause.
+- Reduced-motion alternatives.
+- Data-saving alternatives.
+- Accessible controls.
+
+Do not load all videos immediately.
+
+Do not autoplay every video.
+
+Do not autoplay audio.
+
+Ensure only appropriate visible video experiences are active.
+
+Do not use copyrighted Instagram music without authorization.
+
+Use original restaurant footage and silence or properly licensed sound where appropriate.
+
+---
+
+## 32. FARRO MOTION DESIGN LANGUAGE
+
+The website's motion personality should be:
+
+- Quiet.
+- Cinematic.
+- Organic.
+- Editorial.
+- Warm.
+- Deliberate.
+- Responsive.
+
+Motion should feel like turning through an independent culinary publication or discovering moments during a meal.
+
+Avoid energetic agency-style movement.
+
+Avoid excessive spring animations.
+
+Avoid bouncing elements.
+
+Avoid aggressive parallax.
+
+Avoid random horizontal movement.
+
+Avoid animated gradients.
+
+Avoid decorative spinning elements.
+
+Use:
+
+- Controlled image reveals.
+- Soft opacity transitions.
+- Restrained typography reveals.
+- Subtle media movement.
+- Editorial chapter transitions.
+- Contextual image changes.
+- Small understated hover interactions.
+
+Motion tokens:
+
+- Microinteraction: 140–200ms.
+- Standard transition: 240–350ms.
+- Image transition: 550–750ms.
+- Editorial reveal: 750–1100ms.
+- Text stagger: 60–100ms.
+
+Use appropriate GSAP easing such as power2.out, power3.out and carefully chosen smooth curves.
+
+Do not apply the same reveal animation to every section.
+
+A few beautifully choreographed sequences are preferable to continuous visual movement.
+
+---
+
+## 33. SIGNATURE INTERACTION — CULINARY CHAPTERS
+
+Implement a purposeful chapter-navigation or storytelling mechanism where appropriate.
+
+Potential desktop interaction:
+
+As the visitor progresses through major homepage sections, a small editorial chapter indicator updates.
+
+Examples:
+
+01 — Origins.
+
+02 — The Kitchen.
+
+03 — At the Table.
+
+04 — The Bar.
+
+05 — Visit.
+
+The indicator should remain subtle.
+
+It may appear within the normal section composition rather than a persistent floating control.
+
+Do not reduce usable screen width unnecessarily.
+
+If clickable, chapter navigation must support keyboard interaction.
+
+Provide native anchor navigation.
+
+Do not force scroll snapping.
+
+Mobile should use simplified chapter labels or no persistent chapter navigation if it creates clutter.
+
+---
+
+## 34. SIGNATURE INTERACTION — EDITORIAL DISH DISCOVERY
+
+Build a refined image-and-content transition for selected dishes.
+
+Investigate suitable React Bits or Codrops techniques.
+
+Use authentic dish imagery.
+
+Potential transition:
+
+- Existing image fades slightly.
+- Incoming image reveals behind a controlled crop.
+- Dish name moves through a restrained vertical mask.
+- Contextual text updates.
+- Progress indicator follows.
+
+Keep transitions responsive.
+
+Do not wait for an animation to finish before processing every user input.
+
+Handle rapid navigation gracefully.
+
+Preload only the adjacent required media.
+
+Do not destroy accessibility during transitions.
+
+Support:
+
+- Keyboard controls.
+- Touch interaction.
+- Reduced motion.
+- Visible controls.
+- Appropriate aria labels.
+
+---
+
+## 35. LENIS AND GSAP INTEGRATION
+
+Implement Lenis smooth scrolling.
+
+Verify current official documentation:
+
+https://lenis.darkroom.engineering/
+
+https://gsap.com/docs/
+
+Synchronize Lenis with GSAP ScrollTrigger correctly.
+
+Use a single controlled animation loop.
+
+Prevent duplicate requestAnimationFrame initialization.
+
+Implement:
+
+- Native keyboard navigation.
+- Anchor navigation.
+- Browser history navigation.
+- Route-level scroll restoration.
+- Nested scrolling.
+- Modal scrolling.
+- Reduced-motion support.
+- Touch compatibility.
+- Cleanup on unmount.
+- ScrollTrigger refresh after significant layout changes.
+
+Use native scrolling where smooth scrolling is unsuitable.
+
+Do not implement scroll hijacking.
+
+Avoid unnecessary pinned sections.
+
+Ensure the website remains fully functional if Lenis is disabled.
+
+---
+
+## 36. PAGE TRANSITIONS
+
+Consider subtle route transitions.
+
+Do not introduce blocking page loaders.
+
+Suggested approach:
+
+- Short outgoing opacity change.
+- Incoming editorial content reveal.
+- Immediate availability of essential navigation.
+- Controlled media appearance.
+
+Keep route transitions short.
+
+Respect reduced-motion preferences.
+
+Manage focus correctly after navigation.
+
+Preserve expected browser history behaviour.
+
+Do not replay a long hero introduction on every route change.
+
+---
+
+## 37. MOBILE EXPERIENCE
+
+The mobile website must be independently designed.
+
+Do not simply compress the desktop grid.
+
+Prioritize the actual restaurant customer journey:
+
+- Understand the restaurant.
+- View food and menu.
+- Find location.
+- Make a reservation.
+- Contact the business.
+
+Use large readable typography.
+
+Keep touch controls comfortable.
+
+Avoid tiny menu-category labels.
+
+Avoid unnecessary horizontal scrolling.
+
+Avoid multiple overlapping photographs.
+
+Use portrait-oriented original footage where suitable.
+
+Reduce complex desktop media arrangements into meaningful vertical narratives.
+
+Consider a restrained mobile reservation action that remains accessible without obscuring content.
+
+Do not cover footer information with fixed controls.
+
+Respect device safe areas.
+
+Test iOS Safari and representative Android browser behaviour where available.
+
+---
+
+## 38. RESPONSIVE TESTING REQUIREMENTS
+
+Test actual layouts at:
+
+- 320px.
+- 375px.
+- 390px.
+- 430px.
+- 768px.
+- 820px.
+- 1024px.
+- 1280px.
+- 1440px.
+- 1920px.
+- 2560px where appropriate.
+
+Test relevant portrait and landscape layouts.
+
+Ensure:
+
+- No horizontal overflow.
+- No clipped typography.
+- No overlapping navigation.
+- No distorted photographs.
+- No loss of important image focal points.
+- No broken masks.
+- No content hidden behind sticky elements.
+- No inaccessible controls.
+- No awkward empty spaces.
+- No unexpected layout shifts.
+
+Keep visible navigation on desktop and tablet.
+
+Use hamburger navigation on mobile.
+
+---
+
+## 39. CONTENT AND COPYWRITING
+
+Create original and natural culinary copy.
+
+Farro's writing should feel:
+
+- Thoughtful.
+- Warm.
+- Human.
+- Culturally aware.
+- Contemporary.
+- Concise.
+- Genuine.
+
+Avoid generic restaurant phrases such as:
+
+- A symphony of flavours.
+- An unforgettable culinary journey.
+- Where tradition meets innovation.
+- Indulge in luxury.
+- A feast for your senses.
+- Embark on a gastronomic adventure.
+
+Use more specific and meaningful language.
+
+Do not attribute proposed copy to Chef Vardaan unless verified.
+
+Do not invent origin stories.
+
+Do not invent ingredient sourcing details.
+
+Do not claim farm-to-table, organic, sustainable, locally sourced or traditional cooking methods without evidence.
+
+Do not use lorem ipsum.
+
+Keep unconfirmed content in a structured review list rather than displaying fabricated facts.
+
+---
+
+## 40. PERFORMANCE ENGINEERING
+
+Prioritize actual performance despite the media-rich design.
+
+Implement:
+
+- Route-level code splitting.
+- Lazy-loaded nonessential components.
+- Optimized media.
+- Appropriate image loading priority.
+- Optimized font subsets.
+- Minimal dependency footprint.
+- Efficient React component boundaries.
+- Stable component keys.
+- Limited unnecessary state updates.
+- Correct animation cleanup.
+- Listener cleanup.
+- IntersectionObserver cleanup.
+- Video lifecycle management.
+- Memory leak prevention.
+
+Do not initialize animation timelines for hidden routes.
+
+Do not load the entire video library during initial navigation.
+
+Avoid expensive animated CSS filters.
+
+Avoid excessive will-change usage.
+
+Avoid rendering continuous decorative animations outside the viewport.
+
+Use performance measurement to guide optimization rather than indiscriminate memoization.
+
+Establish realistic media budgets.
+
+Aim for:
+
+- Lighthouse Performance 90+.
+- Accessibility 95+.
+- Best Practices 95+.
+- SEO 95+.
+- LCP at or below 2.5 seconds.
+- CLS at or below 0.1.
+- Field INP at or below 200 milliseconds.
+
+These are engineering targets, not guaranteed results.
+
+Measure actual outcomes.
+
+Distinguish laboratory metrics from field Core Web Vitals.
+
+---
+
+## 41. ACCESSIBILITY
+
+Follow WCAG 2.2 AA principles.
+
+Require:
+
+- Semantic HTML.
+- Logical heading hierarchy.
+- Meaningful alt text.
+- Visible focus indicators.
+- Keyboard navigation.
+- Accessible galleries.
+- Accessible menu tabs.
+- Accessible dialogs.
+- Accessible video controls.
+- Readable text contrast.
+- Reduced-motion support.
+- Appropriate touch-target sizes.
+- Screen-reader-friendly navigation.
+- No hover-only essential content.
+
+Use semantic links and buttons correctly.
+
+Ensure animated image reveals do not hide important content.
+
+Ensure the entire restaurant information and booking journey is accessible without animation.
+
+Run automated accessibility testing where available.
+
+Perform manual keyboard testing.
+
+Do not claim complete WCAG compliance solely from automated scores.
+
+---
+
+## 42. SEO AND LOCAL DISCOVERABILITY
+
+Implement production-quality SEO architecture.
+
+Include:
+
+- Unique page titles.
+- Meta descriptions.
+- Semantic page hierarchy.
+- Open Graph metadata.
+- Social sharing images.
+- Appropriate canonical URLs after the official domain is confirmed.
+- Sitemap generation.
+- Robots configuration.
+- Appropriate Restaurant structured data.
+- Verified opening hours.
+- Verified business address.
+- Verified contact information.
+- Verified menu and reservation links.
+
+Do not invent:
+
+- Review ratings.
+- Review counts.
+- Price ranges.
+- Awards.
+- Business information.
+- Dietary claims.
+- Structured-data properties.
+
+Consider prerendering or another rendering strategy if justified for local SEO.
+
+Keep the independent concept private and noindexed until authorized.
+
+Noindex is not a substitute for access control.
+
+---
+
+## 43. SECURITY AND CODE QUALITY
+
+Require:
+
+- Strict TypeScript.
+- Maintainable React architecture.
+- Clear component boundaries.
+- Centralized design tokens.
+- Centralized content configuration.
+- Centralized restaurant information.
+- Reusable accessible components.
+- Consistent CSS conventions.
+- Secure environment variables.
+- Appropriate input validation.
+- Safe external links.
+- Proper error handling.
+
+Avoid:
+
+- Duplicate CSS.
+- Dead code.
+- Unnecessary abstractions.
+- Excessively large components.
+- Unresolved imports.
+- Exposed secrets.
+- Console errors.
+- TypeScript errors.
+- Unnecessary global state.
+
+Do not implement fake booking, payment or contact functionality.
+
+---
+
+## 44. PUBLICATION AND MEDIA PERMISSIONS
+
+This is an independent concept website.
+
+Do not represent Codevirel Studio as already commissioned by Farro.
+
+Do not publicly publish third-party logos, photographs, videos, guest imagery, copyrighted music or protected brand materials without appropriate authorization.
+
+Use private access-controlled deployment for the initial client presentation.
+
+Preserve appropriate attribution and third-party licenses.
+
+Do not embed unrelated copyrighted restaurant photography obtained from reference websites.
+
+Do not use reference websites as asset libraries.
+
+---
+
+## 45. MANDATORY BROWSER-BASED VISUAL REVIEW
+
+Do not stop after completing the initial implementation.
+
+Run the website locally.
+
+Use Playwright or an available browser automation tool.
+
+Inspect every implemented route.
+
+Capture desktop, tablet and mobile screenshots.
+
+At minimum:
+
+- 1440px desktop.
+- 820px tablet.
+- 390px mobile.
+
+Inspect:
+
+- Header alignment.
+- Logo positioning.
+- Navigation spacing.
+- Hero visual balance.
+- Typography wrapping.
+- Editorial grid alignment.
+- Image cropping.
+- Image quality.
+- Section spacing.
+- Text readability.
+- Decorative details.
+- Menu usability.
+- Gallery interactions.
+- Animation positioning.
+- Mobile navigation.
+- Reservation actions.
+- Footer composition.
+
+Evaluate whether the visual design genuinely resembles a professionally art-directed restaurant website.
+
+Do not accept screenshots containing:
+
+- Unintentional whitespace.
+- Misaligned images.
+- Clipped headings.
+- Repetitive compositions.
+- Generic card layouts.
+- Broken animations.
+- Unclear navigation.
+- Poorly cropped media.
+- Weak typography hierarchy.
+
+Correct issues and capture updated screenshots.
+
+Perform at least one complete visual refinement cycle.
+
+Continue if significant weaknesses remain.
+
+---
+
+## 46. FUNCTIONAL AND TECHNICAL TESTING
+
+Test:
+
+- All routes.
+- All navigation links.
+- Mobile menu.
+- Reservation links.
+- Restaurant telephone links.
+- WhatsApp links.
+- Directions links.
+- Menu category navigation.
+- Image galleries.
+- Video playback.
+- Keyboard controls.
+- Reduced-motion behaviour.
+- Lenis integration.
+- Browser history.
+- Scroll restoration.
+- Responsive layouts.
+- Media-loading behaviour.
+
+Run:
+
+- TypeScript checks.
+- Linting.
+- Available automated tests.
+- Production build.
+- Lighthouse audits.
+- Accessibility audits where available.
+
+Report actual results.
+
+Do not claim tests passed if they were not executed.
+
+Do not claim visual inspection if browser capabilities were unavailable.
+
+---
+
+## 47. FINAL ART DIRECTION REVIEW
+
+Review the completed website from the perspective of a professional creative director.
+
+Ask:
+
+Does the website feel like Farro?
+
+Does it communicate the restaurant's cultural and culinary identity?
+
+Does the photography feel authentic and thoughtfully curated?
+
+Does the typography establish a distinctive identity?
+
+Does the website feel tactile without becoming artificially vintage?
+
+Does the motion feel cinematic without becoming distracting?
+
+Does the cocktail section create an appropriate change of atmosphere?
+
+Does the kitchen section communicate human craft?
+
+Does the menu remain easy to use?
+
+Is the reservation journey straightforward?
+
+Is the mobile experience as carefully designed as desktop?
+
+Does the header feel balanced?
+
+Does the footer provide meaningful visual closure?
+
+Does any section look generic or AI-generated?
+
+Does the website feel suitable for presenting to the restaurant's owners?
+
+Refine any weak, generic, repetitive or poorly executed section.
+
+Do not accept an implementation solely because the code works.
+
+---
+
+## 48. FINAL DELIVERABLES
+
+Deliver:
+
+- Complete working React website.
+- Original Farro-specific visual identity.
+- All required website routes.
+- Responsive desktop, tablet and mobile layouts.
+- Accessible navigation.
+- Functional menu presentation.
+- Verified reservation and contact actions.
+- Optimized original photography.
+- Optimized original videos.
+- Signature culinary interactions.
+- GSAP motion system.
+- Lenis smooth scrolling.
+- Editable business content.
+- SEO architecture.
+- Design research documentation.
+- Media inventory.
+- Desktop screenshots.
+- Tablet screenshots.
+- Mobile screenshots.
+- Test results.
+- Production build results.
+- Actual performance findings.
+- Accessibility findings.
+- Known limitations.
+- Required business confirmations.
+- Private deployment instructions.
+
+Document all unresolved content and publication permission requirements.
+
+---
+
+## 49. ACCEPTANCE CRITERIA
+
+The website is complete only when:
+
+- The design feels specifically created for Farro.
+- All required routes function.
+- The original brand identity is preserved.
+- Relevant authentic media is utilized.
+- The typography is visually distinctive and readable.
+- The editorial layouts are coherent.
+- Desktop and tablet navigation remain visible.
+- Mobile hamburger navigation functions correctly.
+- Menu information is accessible and accurate.
+- Reservation actions use legitimate destinations.
+- No fake booking confirmations exist.
+- No fabricated business information exists.
+- Responsive layouts have been inspected.
+- No significant overflow or overlap exists.
+- Motion respects reduced-motion preferences.
+- Lenis operates correctly.
+- Relevant automated checks pass.
+- The production build succeeds.
+- Actual browser visual inspection has been completed where available.
+- Remaining limitations are documented.
+
+---
+
+## 50. FINAL EXECUTION INSTRUCTION
+
+Do not stop at planning.
+
+Do not produce only a design specification.
+
+Do not generate a generic restaurant template.
+
+Inspect the repository.
+
+Inspect every original asset.
+
+Research actual reference websites and components.
+
+Use relevant installed frontend design and taste skills.
+
+Establish a specific Farro creative direction.
+
+Implement the complete website.
+
+Optimize all selected media.
+
+Run the website.
+
+Inspect it in an actual browser.
+
+Test desktop, tablet and mobile layouts.
+
+Fix visual problems.
+
+Refine typography, spacing, alignment, image compositions, navigation, footer and animation choreography.
+
+Test real functionality.
+
+Validate performance.
+
+Prepare the website for authorized private deployment.
+
+Make Farro feel like a restaurant with stories worth discovering, rather than another premium restaurant template.
+
+The final website should demonstrate the creative, visual and engineering quality of Codevirel Studio.
+
+Code + Vision + Realisation.
